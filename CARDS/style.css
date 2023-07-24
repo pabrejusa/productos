@@ -1,0 +1,19 @@
+.card{
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+}
+.btn{
+    background-color: rgb(40, 30, 185);
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+}
+.modal-content{
+    background-color: rgb(22, 25, 165);
+    color: white;
+}
+.btn2{
+    background-color: blanchedalmond;
+    color: rgb(88, 175, 224);
+}
